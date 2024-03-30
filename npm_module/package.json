@@ -1,0 +1,26 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "node test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubraacelik/Node-JS.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubraacelik/Node-JS/issues"
+  },
+  "homepage": "https://github.com/kubraacelik/Node-JS#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
